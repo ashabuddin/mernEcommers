@@ -1,1 +1,1 @@
-# mernEcommers
+# Mern Ecommers apps
