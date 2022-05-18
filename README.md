@@ -37,6 +37,7 @@ Some of the technologies used in the development of this web application are as 
 - [ Material UI](https://mui.com/material-ui/getting-started/installation/): The most popular front-end framework, rebuilt for React.
 - [nodemailer](https://nodemailer.com/about/): Send mails using a node-based server
 - [Cloudinary](https://www.npmjs.com/package/cloudinary) Node.js packages that help deal with file uploads.
+- [Stripe](https://www.npmjs.com/package/stripe) For collecting customer and payment information in the browser,
 
 - [ ] _**Mern**_ **Ecommers** **Admin** **Dashboard** 🙈 ### **:**
 
