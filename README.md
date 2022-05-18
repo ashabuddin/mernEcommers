@@ -29,3 +29,6 @@ Mern Ecommers Admin Dashboard 🙈 :
 
 
 ![Screenshot_168](https://user-images.githubusercontent.com/76893448/168980327-ca516634-10e2-4eb0-b67a-a4859f623f6b.png)
+
+![Screenshot_169](https://user-images.githubusercontent.com/76893448/168980624-e8d71eed-27e9-4372-97ef-f5ac59ab19d9.png)
+
