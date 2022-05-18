@@ -1,11 +1,8 @@
 
 ## Mern Ecommers## Color Reference
 
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-> - 
+
 > - - Login/Signup User Account
-> - 
 > - Update Profile/Password User Account
 > - Reset Password Mail using Sendgrid
 > - Cart Add/Remove Items | Update Quantities
