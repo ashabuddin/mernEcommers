@@ -23,7 +23,7 @@
 > - Admin: List Review of Product | Delete Review
 > - Stock Management: Decrease stock of products when shipped
 
-Mern Ecommers Admin Dashboard 🙈 :
+Mern Ecommers Admin Dashboard 🙈 **:**
 
 
 ![Screenshot_168](https://user-images.githubusercontent.com/76893448/168980327-ca516634-10e2-4eb0-b67a-a4859f623f6b.png)
