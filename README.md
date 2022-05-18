@@ -1,4 +1,3 @@
-![Screenshot_167](https://user-images.githubusercontent.com/76893448/168979405-97d68226-0791-47b5-8903-d5da2523e1ec.png)
 
 ## Mern Ecommers## Color Reference
 
@@ -25,3 +24,5 @@ Admin: Add/Update Products
 Admin: Update User Data | Delete User
 Admin: List Review of Product | Delete Review
 Stock Management: Decrease stock of product when shipped
+
+Mern Ecommers Admin Dashboard 🙈 :
