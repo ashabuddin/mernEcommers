@@ -23,6 +23,21 @@
 > - Admin: List Review of Product | Delete Review
 > - Stock Management: Decrease stock of products when shipped
 
+**Technologies** **Used**
+Some of the technologies used in the development of this web application are as follow:
+
+- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas): It provides a free cloud service to store MongoDB collections.
+- [React.js](https://reactjs.org/): A JavaScript library for building user interfaces.
+- [Node.js](https://nodejs.org/en/): A runtime environment to help build fast server applications using JS.
+- [Express.js](https://expressjs.com/): A popular Node.js framework to build scalable server-side web applications.
+- [Redux.js](https://redux.js.org/): A predictable & global state container for React apps.
+- [Mongoose](https://mongoosejs.com/): An ODM(Object Data Modelling)library for MongoDB and Node.js
+- [Heroku](http://heroku.com/): A platform(PaaS) to deploy full-stack web applications for free.
+- [JSON Web Tokens or JWTs](https://jwt.io/): A standard to securely authenticate HTTP requests
+- [ Material UI](https://mui.com/material-ui/getting-started/installation/): The most popular front-end framework, rebuilt for React.
+- [nodemailer](https://nodemailer.com/about/): Send mails using a node-based server
+- [Cloudinary](https://www.npmjs.com/package/cloudinary) Node.js packages that help deal with file uploads.
+
 - [ ] _**Mern**_ **Ecommers** **Admin** **Dashboard** 🙈 ### **:**
 
 
