@@ -2,7 +2,7 @@
 ## Mern Ecommers## Color Reference
 
 
-> - - Login/Signup User Account
+> - Login/Signup User Account
 > - Update Profile/Password User Account
 > - Reset Password Mail using Sendgrid
 > - Cart Add/Remove Items | Update Quantities
